@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Refrigerante Fortalum",
+        "cantidad": 25,
+        "precio": 25.99
+    },
+    {
+        "nombre": "PC",
+        "cantidad": 50,
+        "precio": 30
+    },
+    {
+        "nombre": "Pizza",
+        "cantidad": 2,
+        "precio": 20
+    }
+]
